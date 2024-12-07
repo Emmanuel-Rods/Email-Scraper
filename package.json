@@ -1,0 +1,17 @@
+{
+  "name": "email-scraper-js-render",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Rodrigues",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.10.1",
+    "puppeteer-real-browser": "^1.3.18",
+    "xlsx": "^0.18.5"
+  }
+}
