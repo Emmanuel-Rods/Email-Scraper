@@ -81,7 +81,7 @@ scraper();
 async function jsRender(url) {
   const { browser, page } = await connect({
     defaultViewport: null,
-    headless: false,
+    headless: true,
 
     args: [],
 
